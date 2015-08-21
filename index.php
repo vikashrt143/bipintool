@@ -7,11 +7,16 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <style>
+            body{
+                background-color:activecaption;
+            }
+        </style>  <title></title>
     </head>
     <body>
         <?php
-      echo "bipin"  // put your code here
+        // put your code here
+        echo "hello mr. bipin";
         ?>
     </body>
 </html>
