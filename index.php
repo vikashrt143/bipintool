@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <style>
             body{
-                background-color:activecaption;
+                background-color:aqua;
             }
         </style>  <title></title>
     </head>
